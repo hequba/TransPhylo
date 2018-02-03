@@ -10,6 +10,5 @@ Suggests: ape, knitr, testthat
 Description: Inference of transmission tree under a within-host evolution model.
 VignetteBuilder: knitr
 License: GPL (>=2)
-Imports: Rcpp (>= 0.12.8)
 SystemRequirements: C++11
 RoxygenNote: 6.0.1
